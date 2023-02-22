@@ -2,7 +2,7 @@
 - 👀 I’m interested in php or golang programming
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on social project
-- <!---
+<!---
 - 📫 How to reach me ...
 --->
 <!---
